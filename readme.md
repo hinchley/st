@@ -32,7 +32,7 @@ Reset Opacity    | `alt`   + `BraceRight`
 To build and install st:
 
 ```
-git clone https://gihub.com/hinchley/st.git
+git clone https://github.com/hinchley/st.git
 cd st
 ./build.sh
 ```
